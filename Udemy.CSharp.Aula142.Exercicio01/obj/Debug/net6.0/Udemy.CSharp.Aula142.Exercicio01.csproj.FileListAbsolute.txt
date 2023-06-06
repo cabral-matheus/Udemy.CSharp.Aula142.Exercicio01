@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\bin\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.exe
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\bin\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.deps.json
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\bin\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\bin\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.dll
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\bin\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.pdb
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\obj\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\obj\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\obj\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\obj\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\obj\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\obj\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.dll
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\obj\Debug\net6.0\refint\Udemy.CSharp.Aula142.Exercicio01.dll
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\obj\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.pdb
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\obj\Debug\net6.0\Udemy.CSharp.Aula142.Exercicio01.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\Projetos C#\Udemy.CSharp.Aula142.Exercicio01\Udemy.CSharp.Aula142.Exercicio01\obj\Debug\net6.0\ref\Udemy.CSharp.Aula142.Exercicio01.dll
